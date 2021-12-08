@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\django_project",
+    "\\users\\templates",
+    "\\users\\templates\\users"
+  ],
+  "SelectedNode": "\\django_project\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
