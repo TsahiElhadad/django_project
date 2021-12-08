@@ -9,4 +9,7 @@ a unique user using a filter I been created. <br/>
 
 I enjoyed building the site with the help of Django platform and it was very effective for my purpose.
 
-![picture alt](/web_image.png "web_image") <br/>
+<p align="center">
+  <img src="web_image.png" width = "600" /> 
+</p>
+ 
